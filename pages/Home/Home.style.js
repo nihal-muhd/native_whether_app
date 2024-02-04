@@ -12,7 +12,8 @@ export const HomeStyle=StyleSheet.create({
     },
     txt:{
         fontSize:30,
-        color:'white'
+        color:'white',
+        fontFamily:'Alata-Regular'
     }
 })
   

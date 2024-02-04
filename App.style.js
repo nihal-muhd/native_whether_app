@@ -1,7 +1,8 @@
 import {StyleSheet} from 'react-native'
 export const AppStyle=StyleSheet.create({
     safeView:{
-        flex:1
+        flex:1,
+        padding:20
     },
     img_background:{
         flex:1,
